@@ -7,7 +7,7 @@
   - 👩🏻‍🎓 Soy estudiante de Laboratoria **Cohot LIM018 - Perú.**
   - 📝 Actualmente estoy realizando **mi 5to proyecto del bootcamp** y aprendiendo **React.** 😌 
   - 🤝 Me gusta trabajar en proyectos **tecnológicos de forma colaborativa.**
-  - 📫 Mi e-mail es: **vanessaah.lu@gmail.com** y tambien me puedes encontrarme en mi perfil de 
+  - 📫 Mi e-mail es: **vanessaah.lu@gmail.com**, también puedes visitar mi perfil de 
       <a href="https://linkedin.com/in/vanessaarapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessaarapa" height="18" width="28" /></a>.
 
 ---
