@@ -17,7 +17,7 @@
   - 📫 Mi e-mail es: **vanessaah.lu@gmail.com**, también puedes visitar mi perfil de 
       <a href="https://linkedin.com/in/vanessaarapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessaarapa" height="18" width="28" /></a>.
 
----
+#
 #### 🔨 Lenguajes y herramientas:
 
 <div id="tools" align="left" >
@@ -52,7 +52,7 @@
   </p>
 </div> 
 
----
+#
 #### 📊 Estadísticas:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brivanessa&theme=radical&hide_border=true&locale=es)](https://git.io/streak-stats)
