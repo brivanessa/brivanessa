@@ -1,12 +1,19 @@
-<div id="header" align="center">
-    <img src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" width="200"></img>
-    <h3 align="center">Hola! Me llamo Vanessa (҂•◡•)ᕤ ♪♬ </h3>
-</div>
+  <div id="header" align="justify">
+   <h3 align="center">✨ Hi there!
+       <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20"></img>
+       , welcome to my GitHub 
+       <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"                    width="30">✨
+   </h3>
+  </div>
 
-
-  - 👩🏻‍🎓 Soy estudiante de Laboratoria **Cohot LIM018 - Perú.**
+# 
+ <img align="right" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" width="200"></img>
+ 
+#### I'm Vanessa && ...
+  - 👩🏻‍🎓 Soy estudiante de Laboratoria **Cohort LIM018 - Perú.**
   - 📝 Actualmente estoy realizando **mi 5to proyecto del bootcamp** y aprendiendo **React.** 😌 
   - 🤝 Me gusta trabajar en proyectos **tecnológicos de forma colaborativa.**
+  - 👩🏻‍💻 Algunos de mis proyectos son: [➡️ click here](https://github.com/brivanessa?tab=repositories) 
   - 📫 Mi e-mail es: **vanessaah.lu@gmail.com**, también puedes visitar mi perfil de 
       <a href="https://linkedin.com/in/vanessaarapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessaarapa" height="18" width="28" /></a>.
 
