@@ -10,8 +10,8 @@
  <img align="right" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" width="190"></img>
  
 #### I'm Vanessa && ...
-  - 👩🏻‍🎓 Soy estudiante de Laboratoria **Cohort LIM018 - Perú.**
-  - 📝 Actualmente estoy realizando **mi 5to proyecto del bootcamp** y aprendiendo **React.** 😌 
+  - 👩🏻‍🎓 Pertenezco a Laboratoria **Cohort LIM018 - Perú.**
+  - 📝 Actualmente estoy aprendiendo **React y Node.** 😌 
   - 🤝 Me gusta trabajar en proyectos **tecnológicos de forma colaborativa.**
   - 👩🏻‍💻 Algunos de mis proyectos son: [➡️ click here](https://github.com/brivanessa?tab=repositories) 
   - 📫 Mi e-mail es: **vanessaah.lu@gmail.com**, también puedes visitar mi perfil de 
