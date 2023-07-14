@@ -1,6 +1,6 @@
   <div id="header" align="justify">
    <h3 align="center">✨ Hi there!
-       <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20"></img>
+       <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="20"></img>
        , welcome to my GitHub 
        <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"                    width="30">✨
    </h3>
