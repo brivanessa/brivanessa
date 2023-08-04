@@ -11,7 +11,7 @@
  
 #### I'm Vanessa && ...
   - 👩🏻‍🎓 Pertenezco a Laboratoria **Cohort LIM018 - Perú.**
-  - 📝 Actualmente estoy aprendiendo **Python y Node.** 😌 
+  - 📝 Actualmente estoy aprendiendo **Python,Node y SQL.** 😌 
   - 🤝 Me gusta trabajar en proyectos **tecnológicos de forma colaborativa.**
   - 👩🏻‍💻 Algunos de mis proyectos son: [➡️ click here](https://github.com/brivanessa?tab=repositories) 
   - 📫 Mi e-mail es: **vanessaah.lu@gmail.com**, y mi perfil de Linkedin es: 
