@@ -15,7 +15,7 @@
   - 🤝 Me gusta trabajar en proyectos **tecnológicos de forma colaborativa.**
   - 👩🏻‍💻 Algunos de mis proyectos son: [➡️ click here](https://github.com/brivanessa?tab=repositories) 
   - 📫 Mi e-mail es: **vanessaah.lu@gmail.com**, y mi perfil de Linkedin es: 
-      <a href="https://linkedin.com/in/vanessaarapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessaarapa" height="18" width="28" /></a>.
+      <a href="https://linkedin.com/in/vanessaarapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessaarapa" height="18" width="28" /></a>
 
 #
 #### 🔨 Lenguajes y herramientas:
